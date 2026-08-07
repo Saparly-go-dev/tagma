@@ -1,0 +1,7 @@
+.env
+images
+*.exe
+miweli
+miweli_new
+.idea/
+.gocache/

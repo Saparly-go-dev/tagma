@@ -1,0 +1,9 @@
+port : "8080"
+timezone: "Asia/Ashgabat"
+
+db:
+ username : "saparly"
+ host: "127.0.0.1"
+ port: "5432"
+ dbname: "tagma_test"
+ sslmode: "disable"
